@@ -8,7 +8,7 @@ The Character Chat Application is a React-based frontend application that allows
 
 Setup and Installation
 
-git clone <repository-url>
+git clone (https://github.com/aparnaraveendrankv/Character-Chat-Application)
 
 
 Install Dependencies:
