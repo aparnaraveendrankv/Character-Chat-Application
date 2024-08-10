@@ -1,0 +1,26 @@
+.app {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.character-selector {
+  margin-bottom: 20px;
+}
+
+.chatbox {
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.chat-line {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+textarea {
+  flex-grow: 1;
+  margin-right: 10px;
+}
